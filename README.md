@@ -13,7 +13,7 @@ Build a robust anomaly detection system for network traffic that:
 
 - `notebooks/`: full experimentation workflow (data prep, benchmarking, centralized, federated, HiL).
 - `scripts/`: script equivalents of notebooks for reproducible non-notebook runs.
-- `data/raw/`: input datasets used by experiments.
+- `data/`: input datasets used by experiments.
 - `artifacts/models/`: trained model files (centralized and federated).
 - `artifacts/outputs/`: plots, metrics, and analysis outputs.
 - `docs/`: documentation assets.
