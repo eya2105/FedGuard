@@ -16,7 +16,6 @@ Build a robust anomaly detection system for network traffic that:
 - `data/raw/`: input datasets used by experiments.
 - `artifacts/models/`: trained model files (centralized and federated).
 - `artifacts/outputs/`: plots, metrics, and analysis outputs.
-- `src/fedguard/monitoring/`: real-time packet monitoring utility (`monitor_scapy.py`).
 - `docs/`: documentation assets.
 
 ## Data used
