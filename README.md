@@ -62,7 +62,3 @@ This was resolved by:
 
 The federated autoencoder reached the same detection behavior as the centralized baseline on the locked evaluation setup, while preserving the federated privacy constraint (no raw data sharing between clients).
 
-## Reproducibility
-
-To export notebooks into script format, use the exporter in `utils/export_notebooks_to_scripts.py`.  
-This keeps notebook code logic aligned with script-based execution.
